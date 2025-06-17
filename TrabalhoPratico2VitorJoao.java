@@ -6,7 +6,7 @@
 */
 
 
-package com.mycompany.trabalhopratico2vitorjoao;
+package com.mycompany.main;
 
 import java.util.Scanner;
 
