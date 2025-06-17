@@ -1,4 +1,4 @@
-package com.mycompany.trabalhopratico2vitorjoao;
+package com.mycompany.main;
 public class Morada {
     private String rua;
     private String cidade;
