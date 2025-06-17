@@ -1,5 +1,4 @@
 /*
-    Trabalho Pratico realizado por Vitor Gomes (ispg2019100579@ispgaya.pt) e João Magalhães (ispg2024101974@ispgaya.pt)
 
     Abstração 0
     Polimorfismo 
@@ -11,7 +10,7 @@ package com.mycompany.trabalhopratico2vitorjoao;
 
 import java.util.Scanner;
 
-public class TrabalhoPratico2VitorJoao {
+public class Main {
     
     public static void main(String[] args) {
         ServicoContas contaService = new ServicoContas(); // Objeto Conta Servico
