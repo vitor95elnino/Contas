@@ -1,4 +1,4 @@
-package com.mycompany.trabalhopratico2vitorjoao;
+package com.mycompany.main;
 
 // Classe pai, pois todas as outras contas herdam as variavesis e os metodos desta classe.
 // Classe abstrata que representa uma conta genérica
