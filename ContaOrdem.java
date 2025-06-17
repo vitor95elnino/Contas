@@ -1,4 +1,4 @@
-package com.mycompany.trabalhopratico2vitorjoao;
+package com.mycompany.main;
 
 //Classe que representa uma conta a ordem 
 //Herda da classe Conta
