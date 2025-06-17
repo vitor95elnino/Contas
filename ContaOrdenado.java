@@ -1,4 +1,4 @@
-package com.mycompany.trabalhopratico2vitorjoao;
+package com.mycompany.main;
 
 //Classe que presenta uma conta Ordenado
 //Herda da ContaOrdem e permite um saldo negativo limite
