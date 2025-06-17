@@ -1,4 +1,4 @@
-package com.mycompany.trabalhopratico2vitorjoao;
+package com.mycompany.main;
 
 //Classe que representa uma conta a prazo, herda da classe conta
 public class ContaPrazo extends Conta {
